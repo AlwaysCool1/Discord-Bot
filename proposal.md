@@ -1,0 +1,1 @@
+My plan for my project is to make a joke bot that will be able to give tons of jokes until someone is satisfied. 
